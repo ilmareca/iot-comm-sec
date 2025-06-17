@@ -1,0 +1,4 @@
+{
+  ":client1": { "oscore": { "basedir": "server/from-group/" } },
+  ":client2": { "oscore": { "basedir": "server/from-group/" } }
+}

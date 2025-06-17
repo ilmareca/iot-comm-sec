@@ -1,0 +1,11 @@
+{
+  "context": [
+    {
+      "master-secret": { "hex": "00112233445566778899aabbccddeeff" },
+      "sender-id": { "hex": "01" },
+      "recipient-id": { "hex": "02" },
+      "id-context": { "hex": "10" },
+      "aead-algorithm": "AES-CCM-16-64-128"
+    }
+  ]
+}

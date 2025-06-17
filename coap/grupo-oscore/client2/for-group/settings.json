@@ -1,0 +1,5 @@
+{
+  "secret": { "hex": "00112233445566778899aabbccddeeff" },
+  "sender-id": { "ascii": "client2" },
+  "recipient-id": { "ascii": "group" }
+}

@@ -1,0 +1,39 @@
+{
+  "group_id": "red_sensores_iot",
+  "master_secret": "b41232306d52f62f71e48254664d6fd3c13a270214999052ee803dc93e50b9a0",
+  "master_salt": "142c47768e438e8357620b184249bf68",
+  "members": {
+    "sensor_temperatura_01": {
+      "member_id": 1,
+      "role": "sensor",
+      "joined_at": "2025-06-01T23:53:35.525220"
+    },
+    "sensor_humedad_01": {
+      "member_id": 2,
+      "role": "sensor",
+      "joined_at": "2025-06-01T23:53:35.525220"
+    },
+    "actuador_ventilador": {
+      "member_id": 3,
+      "role": "actuator",
+      "joined_at": "2025-06-01T23:53:35.525220"
+    },
+    "gateway_principal": {
+      "member_id": 4,
+      "role": "gateway",
+      "joined_at": "2025-06-01T23:53:35.525220"
+    },
+    "cliente_monitoreo": {
+      "member_id": 5,
+      "role": "client",
+      "joined_at": "2025-06-01T23:53:35.525220"
+    }
+  },
+  "sequence_numbers": {
+    "sensor_temperatura_01": 1,
+    "sensor_humedad_01": 1,
+    "actuador_ventilador": 1,
+    "gateway_principal": 1,
+    "cliente_monitoreo": 1
+  }
+}

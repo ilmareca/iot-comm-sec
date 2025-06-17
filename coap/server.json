@@ -1,0 +1,7 @@
+{
+  ":client1": {
+    "oscore": {
+      "basedir": "server/from-client1/"
+    }
+  }
+}
