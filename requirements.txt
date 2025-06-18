@@ -1,0 +1,12 @@
+aiocoap @ git+https://github.com/chrysn/aiocoap.git@e487fa24075762dcacbeaa8e090dfa0479c2b622
+cbor2==5.6.5
+cffi==1.17.1
+cryptography==44.0.3
+fe25519==1.5.0
+filelock==3.18.0
+ge25519==1.5.1
+hkdf==0.0.3
+lakers-python==0.5.0
+paho-mqtt==2.1.0
+psutil==7.0.0
+pycparser==2.22
