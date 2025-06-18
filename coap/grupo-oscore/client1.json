@@ -1,7 +1,0 @@
-{
-  "coap://127.0.0.1/*": {
-    "oscore": {
-      "basedir": "client1/for-group/"
-    }
-  }
-}
